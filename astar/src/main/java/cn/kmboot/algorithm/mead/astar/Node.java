@@ -1,7 +1,5 @@
 package cn.kmboot.algorithm.mead.astar;
 
-import java.util.Comparator;
-
 import lombok.Data;
 
 @Data
